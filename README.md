@@ -1,9 +1,8 @@
-
 # App Financiera
  
 ## Índice
  
-* [1. Preámbulo](#1-preámbulo)
+* [1. Introducción](#1-introducción)
  
 * [2. Acerca de la empresa](#2-acerca-de-la-empresa)
  
@@ -17,13 +16,13 @@
  
 ***
  
-## 1. Preámbulo
+## 1. Introducción
  
-El banco más importante del país, siguiendo las tendencias de otros países, está planeando lanzar un banco 100% digital bajo otro nombre: "Banqui". Su principal objetivo es tener un banco que sea más cercano a las necesidades del público más joven del país. Para ello han venido piloteando un app con un número pequeño de usuarios. Los resultados de este piloto son mixtos, hay algunas cosas que han sido bien recibidas por los usuarios, y hay otras que se tienen que mejorar aún.
+El banco más importante del país, Pichincha, está planeando lanzar un banco 100% digital bajo el nombre: "Banqui", para ello han venido piloteando un app con un número pequeño de usuarios. Nos presentaron los resultados de este piloto el cual nos sirvió como data para la investigación y rediseño del aplicativo.
 
 ## 2. Acerca de la empresa
 
- El Product Manager nos compartió sus impresiones sobre cómo han estado llevando este producto y también nos brindo diferentes recursos para poder hacer un análisis del mismo.
+El Product Manager nos compartió sus impresiones sobre cómo han estado llevando este producto y también nos brindó diferentes recursos para poder hacer un análisis del mismo.
 Algunos de sus comentarios fueron:
 > Los usuarios que anteriormente han sido clientes de algún banco, nos comparan
   con las aplicaciones de esos bancos, parece que hay cosas que extrañan.
@@ -39,7 +38,7 @@ Algunos de sus comentarios fueron:
 
 - Utilizar los recursos brindados por la empresa para identificar los problemas que tiene la aplicación al momento de interactuar con los usuarios.
 - Rediseñar el producto ya existente, solucionando los problemas identificados.
-- Ampliar el mercado de la aplicación para un publico mas joven proponiendo mejoras.
+- Ampliar el mercado de la aplicación para un público más joven proponiendo mejoras.
 
 
 ## 4. Problemas identificados tanto a nivel de negocio como a nivel de usuario
@@ -48,11 +47,11 @@ Después de los testeos, pudimos detectar diversos problemas de usabilidad y de 
 
 ![](IMG/Problemas.PNG)
 
-- **Registro:** Al ser un paso esencial para el uso de la aplicación, carecía de seguridad. Necesitaba un rediseño que le de seguridad a los usuarios.
-- **Movimientos:** La presentación de esta funcionalidad es muy confuso para el usuario, el que necesita un rediseño que pueda hacer más fácil su uso. 
-- **Gastos:** Al sonar como un complemento de la funcionalidad pasada, cae en confusión con esta. Esta funcionalidad tiene muchos puntos buenos que deberían ser explotados de una mejor manera.
-- **Operaciones:** Esta funcionalidad esta bien llevada, pero al ser una funcionalidad que realiza transacciones le hacía falta seguridad.
-- **Ahorros:** Esta funcionalidad es algo muy particular, que cae en confusión con las cuentas. Pero realiza algo muy nuevo para los usuarios, tiene mucho valor y debería ser mejor explicada. 
+- **Registro:** Al ser un paso esencial para el uso de la aplicación, carecía de seguridad. Necesitaba un rediseño que le dé seguridad a los usuarios.
+- **Movimientos:** La presentación de esta sección es muy confusa para el usuario, el que necesita un rediseño que pueda hacer más fácil su uso. 
+- **Gastos:** Al sonar como un complemento de la funcionalidad pasada, cae en confusión con esta. Esta funcionalidad tiene muchos puntos buenos que deberían ser optimizados de una mejor manera.
+- **Operaciones:** Esta sección está bien llevada, pero al ser una funcionalidad que realiza transacciones le hacía falta seguridad.
+- **Ahorros:** Esta sección es algo muy particular, que cae en confusión con las cuentas. Ahorros, es nuevo para los usuarios, y tiene mucho valor para ellos.
 
 **User Persona**
 
@@ -79,6 +78,7 @@ Propuestas para las siguientes funcionalidades:
 
 ![](IMG/Redisenio2.PNG)
 
+El trabajo de rediseño realizado brinda mayor seguridad y facilita la navegación del usuario. Cabe recalcar que quedan ideas por implementar, que podríamos ser explotados, dándole a la aplicación mayor valor.
 
 ## 6. Links
 
@@ -86,7 +86,8 @@ Propuestas para las siguientes funcionalidades:
 
 - Carpeta compartida [Drive](https://drive.google.com/drive/folders/11epMGEDLNHaRXXNwIc8wQn-CMrwCqNxw).
 
-  - Video en [Loom]( ).
+- Video en [Loom]( ).
+
 
 
 ***
