@@ -1,3 +1,96 @@
+
+# App Financiera
+ 
+## Índice
+ 
+* [1. Preámbulo](#1-preámbulo)
+ 
+* [2. Acerca de la empresa](#2-acerca-de-la-empresa)
+ 
+* [3. Objetivos iniciales del proyecto](#3-objetivos-iniciales-del-proyecto)
+ 
+* [4. Problemas identificados tanto a nivel de negocio como a nivel de usuario](#4-problemas-identificados-tanto-a-nivel-de-negocio-como-a-nivel-de-usuario)
+ 
+* [5. Recomendaciones de próximos pasos para el banco con respecto al app](#5-Recomendaciones-de-próximos-pasos-para-el-banco-con-respecto-al-app)
+ 
+* [6. Links](#6-Links)
+ 
+***
+ 
+## 1. Preámbulo
+ 
+El banco más importante del país, siguiendo las tendencias de otros países, está planeando lanzar un banco 100% digital bajo otro nombre: "Banqui". Su principal objetivo es tener un banco que sea más cercano a las necesidades del público más joven del país. Para ello han venido piloteando un app con un número pequeño de usuarios. Los resultados de este piloto son mixtos, hay algunas cosas que han sido bien recibidas por los usuarios, y hay otras que se tienen que mejorar aún.
+
+## 2. Acerca de la empresa
+
+ El Product Manager nos compartió sus impresiones sobre cómo han estado llevando este producto y también nos brindo diferentes recursos para poder hacer un análisis del mismo.
+Algunos de sus comentarios fueron:
+> Los usuarios que anteriormente han sido clientes de algún banco, nos comparan
+  con las aplicaciones de esos bancos, parece que hay cosas que extrañan.
+
+> La aplicación que estamos probando es para iOS, sin embargo, para hacer un
+  lanzamiento nacional necesitamos crear un app para Android.
+
+> Nos falta acercarnos un poco más a los usuarios jóvenes, 100% digitales, los
+  que usan Netflix, Uber, Spotify, Instagram, entre otros.
+
+
+## 3. Objetivos iniciales del proyecto
+
+- Utilizar los recursos brindados por la empresa para identificar los problemas que tiene la aplicación al momento de interactuar con los usuarios.
+- Rediseñar el producto ya existente, solucionando los problemas identificados.
+- Ampliar el mercado de la aplicación para un publico mas joven proponiendo mejoras.
+
+
+## 4. Problemas identificados tanto a nivel de negocio como a nivel de usuario
+
+Después de los testeos, pudimos detectar diversos problemas de usabilidad y de seguridad. 
+
+![](IMG/Problemas.PNG)
+
+- **Registro:** Al ser un paso esencial para el uso de la aplicación, carecía de seguridad. Necesitaba un rediseño que le de seguridad a los usuarios.
+- **Movimientos:** La presentación de esta funcionalidad es muy confuso para el usuario, el que necesita un rediseño que pueda hacer más fácil su uso. 
+- **Gastos:** Al sonar como un complemento de la funcionalidad pasada, cae en confusión con esta. Esta funcionalidad tiene muchos puntos buenos que deberían ser explotados de una mejor manera.
+- **Operaciones:** Esta funcionalidad esta bien llevada, pero al ser una funcionalidad que realiza transacciones le hacía falta seguridad.
+- **Ahorros:** Esta funcionalidad es algo muy particular, que cae en confusión con las cuentas. Pero realiza algo muy nuevo para los usuarios, tiene mucho valor y debería ser mejor explicada. 
+
+**User Persona**
+
+![](IMG/UserPersona.png)
+
+**Customer Journey Map**
+
+![](IMG/journeyMap.png)
+
+
+## 5. Recomendaciones de próximos pasos para el banco con respecto al app
+
+El rediseño propuesto para registro e inicio de sesión:
+
+![](IMG/Registro1.PNG)
+
+![](IMG/Registro2.PNG)
+
+![](IMG/logIn1.PNG)
+
+Propuestas para las siguientes funcionalidades:
+
+![](IMG/Redisenio1.PNG)
+
+![](IMG/Redisenio2.PNG)
+
+
+## 6. Links
+
+- Prototipo navegable de alta fidelidad [Figma](https://www.figma.com/file/Yhw5tgS0JAjOzPdZFeSGf3/S02E01-App-Financiera-Copy-of-Team?node-id=50%3A73).
+
+- Carpeta compartida [Drive](https://drive.google.com/drive/folders/11epMGEDLNHaRXXNwIc8wQn-CMrwCqNxw).
+
+  - Video en [Loom]( ).
+
+
+***
+
 # Aplicación financiera
 
 ## Preámbulo
