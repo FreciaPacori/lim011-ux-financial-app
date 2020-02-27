@@ -86,7 +86,7 @@ El trabajo de redise√±o realizado brinda mayor seguridad y facilita la navegaci√
 
 - Carpeta compartida [Drive](https://drive.google.com/drive/folders/11epMGEDLNHaRXXNwIc8wQn-CMrwCqNxw).
 
-- Video en [Loom]( ).
+- Video en [Loom]( https://www.loom.com/share/16b3b70cd99c4b22bcc28cc1931f62fb ).
 
 
 
